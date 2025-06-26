@@ -46,6 +46,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhnv07&theme=midnight-purple&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhnv07&bg_color=0d1117&color=58a6ff&line=2891c8&point=ffffff&area=true&hide_border=true" />
 
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jhnv07&theme=darkhub&no-bg=true&margin-w=10)
+
 
 
 <b>Top Repositories</b>
