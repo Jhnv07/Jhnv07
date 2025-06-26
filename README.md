@@ -15,7 +15,7 @@
 * 📍  I'm based in India  
 * ✉️  Reach me at [jahnavi.yadav007@gmail.com](mailto:jahnavi.yadav007@gmail.com)  
 * 🎓  Pursuing Integrated B.Tech + M.Tech (CSE with AI)  
-* 🧠  Passionate about AI, human emotions & expressive tech
+* 🧠  Passionate about AI, & expressive tech
 
 ---
 
