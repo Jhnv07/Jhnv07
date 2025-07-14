@@ -13,7 +13,7 @@
 ### 🌍 About Me
 
 * 📍  I'm based in India  
-* ✉️  Reach me at [jahnavi.yadav007@gmail.com](mailto:jahnavi.yadav007@gmail.com)  
+* ✉️  Reach me at [jhenvy.01@gmail.com](mailto:jhenvy.01@gmail.com)  
 * 🎓  Pursuing Integrated B.Tech + M.Tech (CSE with AI)  
 * 🧠  Passionate about AI, & expressive tech
 
@@ -30,7 +30,7 @@
 <p align="left">
   <a href="https://github.com/Jhnv07" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jahnavi-yadav-418ba9329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jahnavi.yadav007@gmail.com" target="_blank">
+  <a href="mailto:jhenvy.01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>  
 </p>
