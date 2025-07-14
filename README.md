@@ -48,4 +48,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=jhnv07&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+<p align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=jhnv07&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+
+</p>
