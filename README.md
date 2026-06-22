@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD54F,100:FF8F00&height=200&section=header&text=Hi%20There,%20I'm%20Jahnavi%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Enthusiast%20%7C%20Software%20Developer%20%7C%20Deep%20Thinker&descAlignY=70&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD54F,100:FF8F00&height=280&section=header&text=Hi%20There,%20I'm%20Jahnavi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Enthusiast%20%7C%20Software%20Developer%20%7C%20Deep%20Thinker&descAlignY=70&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Curious+Mind+%7C+Creative+Soul;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -102,7 +102,7 @@ currently: Exploring how AI can be more creative, not just more capable
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jhnv07/Jhnv07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jhnv07/Jhnv07/output/github-contribution-grid-snake.svg">
-  <img alt="Jahnavi's contribution snake animation" src="https://raw.githubusercontent.com/Jhnv07/Jhnv07/output/github-contribution-grid-snake.svg" width="100%"/>
+  <img alt="Jahnavi's contributions ;)" src="https://raw.githubusercontent.com/Jhnv07/Jhnv07/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
 </div>
@@ -118,7 +118,7 @@ currently: Exploring how AI can be more creative, not just more capable
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c3c,100:00C2FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B45309,100:5C2E00&height=120&section=footer" width="100%"/>
 
 **Thanks for visiting — feel free to explore my repos! ⭐**
 
