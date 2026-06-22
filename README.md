@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=735&lines=Hi+%F0%9F%91%8B+I'm+Jahnavi+Yadav;AI+Enthusiast+%7C+CS+Undergrad;Curious+Mind+%7C+Creative+Soul" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&duration=3000&pause=500&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Jahnavi+Yadav;AI+Enthusiast+%E2%9C%A8+%7C+Code+Creator+%7C+Curious+Learner" />
 </h1>
 
 <p align="center">
@@ -12,47 +12,81 @@
 
 ### 🌍 About Me
 
-* 📍  I'm based in India  
-* ✉️  Reach me at [jhenvy.01@gmail.com](mailto:jhenvy.01@gmail.com)  
-* 🎓  Pursuing Integrated B.Tech + M.Tech (CSE with AI)  
-* 🧠  Passionate about AI, & expressive tech
+- 📍 Based in India
+- 🎓 Pursuing Integrated B.Tech + M.Tech (CSE with AI)
+- 💡 I build things that learn: machine learning prototypes, web apps, and automation tools.
+- ✉️ Reach me: [jhenvy.01@gmail.com](mailto:jhenvy.01@gmail.com)
 
 ---
 
-### 💻 Tech Stack:
+## ✨ What I love building
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+From a tiny script that saves time to an end-to-end ML pipeline, I enjoy the full lifecycle: ideation → prototyping → evaluation → deployment. I focus on clarity, reproducibility, and continuous learning.
 
 ---
 
-### 🔗 Socials
+## 🛠️ Skills & Technologies (so far)
 
-<p align="left">
-  <a href="https://github.com/Jhnv07" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jahnavi-yadav-418ba9329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jhenvy.01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>  
-</p>
+A snapshot of tools and technologies I've used across coursework, personal projects, and internships.
+
+- Programming Languages:
+  - C, C++, Java, Python, JavaScript, TypeScript, SQL, Bash
+- Frontend & Web:
+  - HTML, CSS, SASS, React, Next.js, Bootstrap, Tailwind CSS
+- Backend & APIs:
+  - Node.js, Express, Flask, FastAPI, RESTful design, GraphQL (basic)
+- Databases & Storage:
+  - MySQL, PostgreSQL, MongoDB, Redis, SQLite
+- Machine Learning & AI:
+  - scikit-learn, TensorFlow, Keras, PyTorch, Hugging Face Transformers, OpenCV
+  - Topics: classification, object detection, NLP fine-tuning, transfer learning
+- Data Engineering & Analysis:
+  - NumPy, pandas, Dask (intro), Matplotlib, Seaborn, data cleaning & feature engineering
+- DevOps, CI/CD & Containers:
+  - Git, GitHub, GitHub Actions (basic), Docker, Docker Compose, Linux
+- Cloud & Deployment (familiar):
+  - AWS (EC2, S3), GitHub Pages, Vercel (for static/Next.js), Heroku (past projects)
+- Testing & Quality:
+  - Unit testing (pytest, JUnit), linting, basic profiling and performance checks
+- Tools & Editors:
+  - VS Code, Jupyter, IntelliJ IDEA, Postman, Git CLI
+
+If you'd like, I can add Years / Confidence levels, or link specific projects next to each technology.
+
+---
+
+## 🔭 Selected Project Types
+
+- ML prototypes: image classification, object detection, sentiment analysis, and small transformer fine-tuning.
+- Full-stack apps: React frontend + Express/Flask backend; deployed with Docker and simple CI.
+- Automation: data pipelines, ETL helpers, and developer tooling scripts.
 
 ---
 
 ### 📊 GitHub Stats
 
-
-  ![](https://github-readme-stats.vercel.app/api?username=jhnv07&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhnv07&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhnv07&theme=midnight-purple&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhnv07&bg_color=0d1117&color=58a6ff&line=2891c8&point=ffffff&area=true&hide_border=true" />
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jhnv07&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=jhnv07&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnv07&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+---
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=jhnv07&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### 🔗 Connect
+
+<p align="left">
+  <a href="https://github.com/Jhnv07" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jahnavi-yadav-418ba9329/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jhenvy.01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+If you want this README to include a skills matrix (levels: learning/comfortable/expert), project showcases with screenshots and tech tags, or a timeline of my learning journey, tell me which format and I'll add it.
