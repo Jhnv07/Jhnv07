@@ -95,7 +95,7 @@ currently: Exploring how AI can be more creative, not just more capable
 
 <br/>
 
-## 🐍 Live Contribution Snake
+## 🐍 Live Contribution
 
 <div align="center">
 
