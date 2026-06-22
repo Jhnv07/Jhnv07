@@ -120,6 +120,6 @@ currently: Exploring how AI can be more creative, not just more capable
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B45309,100:5C2E00&height=120&section=footer" width="100%"/>
 
-**Thanks for visiting — feel free to explore my repos! ⭐**
+**Will code for coffee ☕**
 
 </div>
