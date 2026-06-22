@@ -68,7 +68,7 @@ If you'd like, I can add Years / Confidence levels, or link specific projects ne
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhnv07&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhnv07&theme=midnight-purple&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jhnv07&bg_color=0d1117&color=58a6ff&line=2891c8&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhnv07&bg_color=0d1117&color=58a6ff&line=2891c8&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
